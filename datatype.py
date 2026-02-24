@@ -36,4 +36,28 @@ sum3 = value1011 + value2011
 print("sum3 ans:", sum3)
 # adding sum3 values by using function sum
 print("adding sum3 values by using function sum",sum(45,2342424))
+
+
+value11 = 25
+value12 = 35
+sum1 = value11 + value12
+print("sum1 ans:", sum1)
+# adding sum1 values by using function sum
+print("adding sum1 values by using function sum", sum(value11,values12))
+
+
+value111 = 4567
+value211 = 54
+sum2 = value111 + value211
+print("sum2 ans:", sum2)
+# adding sum2 values by using function sum
+print("adding sum2 values by using function sum", sum(value111,value211))
+
+value1101 = 75
+value2101 = 45237
+sum3 = value1101 + value2101
+print("sum3 ans;", sum3)
+# adding sum3 values by using function sum
+print("adding sum3 values by using function sum", sum(value1101,value2101))
+
    
